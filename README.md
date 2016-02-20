@@ -1,2 +1,2 @@
-# straindb.com
-Website for straindb.com
+# straindb.org
+Website for straindb.org
